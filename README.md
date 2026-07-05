@@ -32,16 +32,14 @@ The initial application is a 55" TV (approximately 10 kg), but the mechanism cou
 
 TubeSlide consists of:
 
-- two split roller assemblies
-- four structural connecting bars
-- Two split roller assemblies, each containing four rollers, that guide and support the TubeSlide carriage as it travels along the outer surface of a fixed, 40 mm diameter, 3 m long vertical tube.
-- future VESA mounting interface
+- Two split roller assemblies connected by four structural bars, each assembly containing four rollers that guide and support the TubeSlide carriage as it travels along the outer surface of a fixed, 40 mm diameter, 3 m long vertical tube.
+- A payload mounting interface attached to the TubeSlide carriage. In the current application, this interface is a VESA mount designed to support a 55" TV.
 
-The carriage can move along a vertical tube.
+The carriage can move freely along the vertical tube.
 
-A future version should also rotate smoothly around the tube.
+A future version is expected to rotate smoothly around the tube by replacing the fixed-direction rollers with omni wheels.
 
-One idea being considered is replacing the rollers with omni wheels.
+The payload interface is application-specific and can be adapted to support different devices such as TVs, monitors, cameras, lights, projectors, sensors, or other equipment.
 
 ---
 
