@@ -77,13 +77,9 @@ Any criticism is appreciated.
 ## Repository Contents
 
 ```
-TubeSlide/
-│
-├── README.md
-├── images/
-├── models/
-│   └── TubeSlide.glb
-└── drafts/
+tubeslide.glb - 3d representation - go to https://modelviewer.dev/editor/ and open it.
+tubeslide.mp4 - 3d representation in video format
+draft.jpg - first manual drawing
 ```
 
 ---
