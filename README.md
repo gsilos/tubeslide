@@ -34,7 +34,7 @@ TubeSlide consists of:
 
 - two split roller assemblies
 - four structural connecting bars
-- eight rollers supporting a 40 mm vertical tube
+- Two split roller assemblies, each containing four rollers, that guide and support the TubeSlide carriage as it travels along the outer surface of a fixed, 40 mm diameter, 3 m long vertical tube.
 - future VESA mounting interface
 
 The carriage can move along a vertical tube.
